@@ -1,2 +1,2 @@
-# Chandu-Store
+# Chandu Groceries -Store
 All Grocery Items Are Available
